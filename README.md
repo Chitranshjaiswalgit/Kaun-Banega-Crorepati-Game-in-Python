@@ -23,17 +23,17 @@ This project requires Python 3.12.1 or later.
 To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
-   
-        git clone <https://github.com/jaiswalchitransh/Kaun-Banega-Crorepati-Game-in-Python>
 
-3. Open the project in your preferred Python environment (e.g., IDE or terminal).
-4. Run the script (`game.py`) and observe the output.
+         git clone <https://github.com/jaiswalchitransh/Kaun-Banega-Crorepati-Game-in-Python>
+
+4. Open the project in your preferred Python environment (e.g., IDE or terminal).
+5. Run the script (`game.py`) and observe the output.
 
 
 ## Usage
 Ensure Python 3.x is installed. Run the script:
 
-     python game.py
+         python game.py
 
 Follow the on-screen instructions to answer questions and accumulate winnings.
 Enter '0' to quit the game and display your final winnings.  
