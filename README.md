@@ -31,7 +31,7 @@ To set up the project:
 
 
 ## Usage
-Ensure Python 3.x is installed. Run the script:
+Run the script:
 
          python game.py
 
