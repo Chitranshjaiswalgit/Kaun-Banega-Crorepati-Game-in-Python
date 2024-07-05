@@ -24,7 +24,7 @@ To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
 
-         git clone https://github.com/jaiswalchitransh/Kaun-Banega-Crorepati-Game-in-Python
+         git clone https://github.com/jaiswalchitransh/Kaun-Banega-Crorepati-Game-in-Python.git
 
 4. Open the project in your preferred Python environment (e.g., IDE or terminal).
 5. Run the script (`game.py`) and observe the output.
