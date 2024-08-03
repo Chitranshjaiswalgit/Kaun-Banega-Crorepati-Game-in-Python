@@ -1,4 +1,4 @@
-# Kaun-Banega-Crorepati-Game-in-Python
+# Kaun Banega Crorepati Game in Python
 
 ## Table of Contents
 - [Project Overview](#project-overview)
